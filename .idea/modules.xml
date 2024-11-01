@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfStatementsAndCodeBlocks/IfStatementsAndCodeBlocks.iml" filepath="$PROJECT_DIR$/IfStatementsAndCodeBlocks/IfStatementsAndCodeBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeyWordsAndExpressions/KeyWordsAndExpressions.iml" filepath="$PROJECT_DIR$/KeyWordsAndExpressions/KeyWordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethondChallenge/MethondChallenge.iml" filepath="$PROJECT_DIR$/MethondChallenge/MethondChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/play_java.iml" filepath="$PROJECT_DIR$/.idea/play_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sandbox/sandbox.iml" filepath="$PROJECT_DIR$/sandbox/sandbox.iml" />
+    </modules>
+  </component>
+</project>
